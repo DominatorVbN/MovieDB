@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ElegantAPI",
+        "repositoryURL": "https://github.com/DominatorVbN/ElegantAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "742c1cc2f47cc459da566255cf4bff995bac03c7",
+          "version": "0.0.9"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
